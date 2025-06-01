@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vitor Gabriel.
 - 👀 I’m interested in Coding and Gaming!
-- 🌱 I’m currently learning Python!
 - 📫 How to reach me vitgabriel.dev@gmail.com
 
 <!---
