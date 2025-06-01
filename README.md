@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vitor Gabriel.
+- 👋 Hi, I’m Vitor Efraim.
 - 👀 I’m interested in Coding and Gaming!
 - 📫 How to reach me vitgabriel.dev@gmail.com
 
